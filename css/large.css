@@ -1,1 +1,10 @@
 /* this will be another stylesheet to address another breakpoint */
+
+#small,
+#medium {
+  display: none;
+}
+
+#large {
+  display: block;
+}
